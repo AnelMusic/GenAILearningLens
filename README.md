@@ -1,5 +1,5 @@
 # LearningLens
-![giflens](https://github.com/user-attachments/assets/4ec7f298-2267-4714-90c7-3fab6a92138b)
+<img src="https://github.com/user-attachments/assets/4ec7f298-2267-4714-90c7-3fab6a92138b" alt="giflens" style="width:100%;"/>
 
 In the era of digital content consumption, we often find ourselves binge-watching educational videos, which can create an illusion of understanding without true comprehension. LearningLens addresses this challenge by providing a robust solution for active learning and retention.
 
