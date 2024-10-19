@@ -1,4 +1,5 @@
 # LearningLens
+![Uploading giflens.gif…]()
 
 In the era of digital content consumption, we often find ourselves binge-watching educational videos, which can create an illusion of understanding without true comprehension. LearningLens addresses this challenge by providing a robust solution for active learning and retention.
 
